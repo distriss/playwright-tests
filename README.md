@@ -1,6 +1,6 @@
 # Playwright Test plan for [Hacker News](https://news.ycombinator.com/)
 
-Install node modules by running `npm i`, create and add USERNAME & PASSWORD TO .env, run script with the `node index.js` command.
+Install node modules by running `npm i`, create and add TEST_USERNAME & TEST_PASSWORD TO .env, run script with the `node index.js` command.
 
 ## User Authentication
 
